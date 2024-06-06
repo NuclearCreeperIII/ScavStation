@@ -1,0 +1,410 @@
+"ah" = (/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{dir = 10},/obj/machinery/atmospherics/pipe/simple/hidden/supply,/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/wood/walnut,/area/apartment/apartment_114/closet)
+"ay" = (/turf/simulated/floor/wood/maple,/area/apartment/hall)
+"aO" = (/obj/structure/cable{icon_state = "2-8"},/obj/structure/cable{icon_state = "2-4"},/turf/simulated/floor/wood/maple,/area/apartment/hall)
+"aY" = (/obj/structure/cable{icon_state = "0-4"},/obj/machinery/power/apc{dir = 8; name = "_West APC"; pixel_x = -25},/turf/simulated/floor/wood,/area/apartment/apartment_114)
+"bd" = (/obj/machinery/atmospherics/pipe/simple/visible/scrubbers{dir = 4},/obj/effect/floor_decal/corner/blue{dir = 8},/obj/structure/cable{icon_state = "0-2"},/obj/machinery/power/apc/high{dir = 1; pixel_y = 22},/turf/simulated/floor/tiled/techfloor/grid,/area/apartment/atmospherics)
+"bh" = (/obj/machinery/vending/cola,/obj/machinery/light{dir = 1},/turf/simulated/floor/wood/maple,/area/apartment/hall)
+"bj" = (/obj/machinery/vending/engineering{dir = 8},/turf/simulated/floor/wood/maple,/area/apartment/hall)
+"bu" = (/obj/structure/cable{icon_state = "4-8"},/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/wood/maple,/area/apartment/hall)
+"bw" = (/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced{dir = 8},/obj/effect/floor_decal/corner/blue/diagonal,/obj/effect/floor_decal/corner/blue/diagonal{dir = 4},/obj/machinery/meter/turf,/turf/simulated/floor/reinforced/oxygen,/area/apartment/atmospherics)
+"cc" = (/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{dir = 5},/turf/simulated/floor/wood,/area/apartment/apartment_114)
+"ce" = (/obj/machinery/fabricator/pipe,/obj/effect/floor_decal/corner/yellow{dir = 4},/obj/effect/floor_decal/corner/blue,/obj/effect/floor_decal/corner/blue,/obj/effect/floor_decal/corner/yellow{dir = 8},/turf/simulated/floor/tiled/techfloor,/area/apartment/atmospherics)
+"cm" = (/obj/machinery/door/airlock/civilian{req_access = list("ACCESS_RESIDENT"); name = "HoP Access"},/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/plating,/area/apartment/lobby)
+"cx" = (/obj/effect/floor_decal/carpet{dir = 4},/turf/simulated/floor/tiled/white,/area/apartment/lobby)
+"cC" = (/obj/machinery/light,/turf/simulated/floor/tiled/white,/area/apartment/lobby)
+"dt" = (/obj/machinery/atmospherics/pipe/simple/hidden/supply,/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{dir = 10},/turf/simulated/floor/wood,/area/apartment/apartment_114)
+"dG" = (/obj/machinery/light{dir = 8},/turf/simulated/floor/wood,/area/apartment/apartment_114)
+"et" = (/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{dir = 4},/obj/machinery/atmospherics/unary/vent_pump/on{dir = 1},/turf/simulated/floor/wood/maple,/area/apartment/hall)
+"ew" = (/obj/machinery/vending/sol{dir = 8},/turf/simulated/floor/wood/maple,/area/apartment/hall)
+"ez" = (/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,/obj/machinery/atmospherics/pipe/manifold/hidden/supply,/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/wood/maple,/area/apartment/hall)
+"eE" = (/obj/machinery/atmospherics/unary/vent_scrubber/on{dir = 4},/turf/simulated/floor/wood/maple,/area/apartment/hall)
+"eR" = (/obj/machinery/atmospherics/unary/vent_scrubber/on{dir = 4},/obj/machinery/light/small{dir = 8},/obj/machinery/light_switch{dir = 1; pixel_y = -29},/turf/simulated/floor/wood/walnut,/area/apartment/apartment_114/closet)
+"fb" = (/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/wood,/area/apartment/apartment_114)
+"fk" = (/obj/machinery/atmospherics/pipe/simple/visible/universal,/obj/machinery/firealarm{dir = 4; pixel_x = 24},/turf/simulated/floor/tiled/techfloor,/area/apartment/atmospherics)
+"fl" = (/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{dir = 4},/obj/machinery/atmospherics/pipe/simple/hidden/supply{dir = 4},/turf/simulated/floor/wood,/area/apartment/apartment_114)
+"fB" = (/obj/structure/window/reinforced{dir = 8},/obj/structure/table/reinforced,/obj/item/towel/random,/obj/item/towel/random,/turf/simulated/floor/wood/walnut,/area/apartment/apartment_114/bathroom)
+"fE" = (/obj/structure/table/woodentable/mahogany,/obj/item/flashlight/lamp/green{pixel_y = 5},/turf/simulated/floor/carpet/purple,/area/apartment/apartment_114/bedroom)
+"fF" = (/obj/machinery/computer/account_database,/obj/machinery/button/blast_door{id_tag = "hopshut"; name = "Office Shutters Button"; pixel_y = 30},/turf/simulated/floor/tiled/white,/area/apartment/lobby)
+"fL" = (/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{dir = 4},/obj/machinery/atmospherics/pipe/simple/hidden/supply{dir = 4},/obj/structure/cable{icon_state = "2-4"},/obj/structure/cable{icon_state = "2-8"},/turf/simulated/floor/wood,/area/apartment/apartment_114)
+"fR" = (/obj/effect/wallframe_spawn/reinforced,/obj/machinery/door/blast/regular{density = 0; dir = 4; icon_state = "pdoor0"; id_tag = "scraplock"; name = "External Blast Doors"; opacity = 0},/obj/machinery/door/firedoor,/obj/machinery/atmospherics/pipe/simple/visible/red{dir = 6},/turf/simulated/floor/plating,/area/apartment/atmospherics)
+"fT" = (/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,/obj/machinery/atmospherics/pipe/simple/hidden/supply,/obj/structure/cable{icon_state = "1-4"},/obj/structure/cable{icon_state = "2-4"},/turf/simulated/floor/wood,/area/apartment/apartment_114)
+"fZ" = (/obj/machinery/atmospherics/pipe/simple/visible/supply,/obj/machinery/atmospherics/pipe/simple/visible/scrubbers,/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/plating,/area/apartment/atmospherics)
+"gf" = (/obj/machinery/cooker/oven,/obj/structure/closet/walllocker,/obj/item/kitchen/rollingpin,/obj/item/knife/kitchen/cleaver,/turf/simulated/floor/wood,/area/apartment/apartment_114)
+"gs" = (/obj/machinery/door/airlock/civilian{name = "Office"},/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{dir = 4},/obj/machinery/atmospherics/pipe/simple/hidden/supply{dir = 4},/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/wood,/area/apartment/apartment_114/office)
+"gz" = (/obj/effect/floor_decal/carpet/red,/obj/structure/bed/sofa/right/black,/turf/simulated/floor/wood,/area/apartment/apartment_114)
+"gG" = (/obj/machinery/light/small{dir = 8},/obj/structure/cable{icon_state = "2-4"},/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/wood,/area/apartment/apartment_114)
+"gN" = (/obj/machinery/door/airlock/civilian{name = "Closet"},/obj/machinery/atmospherics/pipe/simple/hidden/supply,/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/wood/walnut,/area/apartment/apartment_114/closet)
+"hA" = (/obj/structure/window/reinforced{dir = 4},/obj/effect/floor_decal/corner/red/diagonal{dir = 4},/obj/effect/floor_decal/corner/red/diagonal,/obj/structure/window/reinforced{health = 1e+007},/turf/simulated/floor/reinforced/nitrogen,/area/apartment/atmospherics)
+"hD" = (/obj/machinery/atmospherics/pipe/simple/visible/green{dir = 4},/obj/machinery/atmospherics/pipe/simple/visible/red,/obj/effect/floor_decal/corner/blue{dir = 6},/turf/simulated/floor/tiled/techfloor/grid,/area/apartment/atmospherics)
+"hG" = (/obj/structure/bookcase/skill_books/all,/turf/simulated/floor/wood/walnut,/area/apartment/apartment_114/office)
+"hM" = (/obj/structure/window/reinforced{dir = 8},/turf/simulated/floor/reinforced/airmix,/area/apartment/atmospherics)
+"hY" = (/obj/structure/cable{icon_state = "4-8"},/obj/machinery/light_switch{dir = 1; pixel_y = -23},/obj/structure/cable{icon_state = "1-4"},/turf/simulated/floor/wood,/area/apartment/apartment_114)
+"ih" = (/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced{dir = 8},/turf/simulated/floor/reinforced/airmix,/area/apartment/atmospherics)
+"iF" = (/obj/structure/closet/secure_closet/freezer/fridge,/obj/item/chems/food/meat/beef,/obj/item/chems/food/meat/beef,/obj/item/chems/food/fish,/obj/item/chems/food/fish,/obj/item/chems/drinks/milk/smallcarton,/obj/item/chems/drinks/milk/smallcarton,/turf/simulated/floor/wood,/area/apartment/apartment_114)
+"iH" = (/obj/machinery/atmospherics/unary/vent_scrubber/on{dir = 8},/turf/simulated/floor/wood/walnut,/area/apartment/apartment_114/bathroom)
+"iL" = (/obj/machinery/cooker/grill,/obj/structure/closet/walllocker,/obj/item/storage/box/beakers,/obj/item/chems/glass/beaker/bowl,/obj/item/chems/glass/beaker/bowl,/obj/item/chems/glass/beaker/bowl,/obj/item/chems/drinks/glass2/square,/obj/item/chems/drinks/glass2/square,/obj/item/chems/drinks/glass2/square,/obj/item/chems/drinks/glass2/square,/obj/item/chems/drinks/glass2/coffeecup/one,/turf/simulated/floor/wood,/area/apartment/apartment_114)
+"je" = (/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{dir = 4},/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/wood/maple,/area/apartment/hall)
+"jm" = (/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{dir = 4},/obj/machinery/atmospherics/pipe/simple/hidden/supply{dir = 5},/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/wood/walnut,/area/apartment/apartment_114/office)
+"jp" = (/obj/effect/floor_decal/carpet/red{dir = 4},/turf/simulated/floor/wood,/area/apartment/apartment_114)
+"jz" = (/obj/effect/wallframe_spawn/reinforced,/obj/machinery/door/blast/regular{density = 0; dir = 4; icon_state = "pdoor0"; id_tag = "scraplock"; name = "External Blast Doors"; opacity = 0},/obj/machinery/door/firedoor,/obj/machinery/atmospherics/pipe/simple/visible/red{dir = 5},/turf/simulated/floor/plating,/area/apartment/atmospherics)
+"jA" = (/obj/machinery/computer/modular/preset/cardslot/command{dir = 4},/turf/simulated/floor/tiled/white,/area/apartment/lobby)
+"jF" = (/obj/structure/table/woodentable_reinforced,/turf/simulated/floor/wood,/area/apartment/apartment_114)
+"jN" = (/obj/effect/floor_decal/corner/red{dir = 6},/obj/machinery/atmospherics/pipe/simple/visible/red,/turf/simulated/floor/tiled/techfloor/grid,/area/apartment/atmospherics)
+"km" = (/obj/structure/table/gamblingtable,/obj/item/chems/condiment/small/saltshaker{pixel_y = 9},/obj/machinery/atmospherics/pipe/manifold/hidden/scrubbers{dir = 1},/obj/machinery/atmospherics/pipe/manifold/hidden/supply{dir = 1},/turf/simulated/floor/wood,/area/apartment/apartment_114)
+"ko" = (/obj/machinery/atmospherics/unary/vent_scrubber/on{dir = 4},/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/wood/walnut,/area/apartment/apartment_114/office)
+"ku" = (/obj/structure/window/reinforced{dir = 4},/obj/machinery/atmospherics/unary/vent_pump/high_volume{dir = 4; external_pressure_bound = 0; external_pressure_bound_default = 0; icon_state = "map_vent_in"; id_tag = "air_out"; internal_pressure_bound = 2000; internal_pressure_bound_default = 2000; pressure_checks = 2; pressure_checks_default = 2; pump_direction = 0; use_power = 1},/turf/simulated/floor/reinforced/oxygen,/area/apartment/atmospherics)
+"kJ" = (/turf/simulated/wall,/area/apartment/maint)
+"kL" = (/obj/structure/bookcase/manuals/medical,/turf/simulated/floor/wood/walnut,/area/apartment/apartment_114/office)
+"kQ" = (/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{dir = 4},/obj/structure/cable,/obj/machinery/power/apc{name = "_South APC"; pixel_y = -24},/turf/simulated/floor/wood/maple,/area/apartment/hall)
+"kY" = (/obj/machinery/atmospherics/unary/vent_pump/on,/turf/simulated/floor/wood,/area/apartment/apartment_114)
+"lh" = (/obj/structure/table/woodentable/mahogany,/obj/item/paicard,/turf/simulated/floor/wood/walnut,/area/apartment/apartment_114/office)
+"lj" = (/obj/machinery/atmospherics/omni/filter{tag_east = 1; tag_north = 3; tag_south = 4; tag_west = 2},/turf/simulated/floor/tiled/techfloor,/area/apartment/atmospherics)
+"ls" = (/obj/structure/bed/chair/wood/mahogany{dir = 8},/obj/machinery/light{dir = 4},/turf/simulated/floor/wood,/area/apartment/apartment_114)
+"ly" = (/obj/effect/floor_decal/corner/blue,/obj/effect/floor_decal/corner/yellow{dir = 4},/obj/machinery/fabricator/pipe/disposal,/turf/simulated/floor/tiled/techfloor,/area/apartment/atmospherics)
+"lA" = (/turf/simulated/wall/walnut,/area/apartment/apartment_114/bedroom)
+"lM" = (/obj/machinery/atmospherics/pipe/simple/hidden/supply,/obj/structure/cable{icon_state = "2-4"},/turf/simulated/floor/wood/maple,/area/apartment/hall)
+"mc" = (/obj/machinery/atmospherics/pipe/simple/visible/green,/obj/machinery/meter,/turf/simulated/floor/tiled/techfloor,/area/apartment/atmospherics)
+"mm" = (/turf/simulated/floor/wood/maple,/area/apartment/hall/offlimits/n)
+"ms" = (/obj/effect/floor_decal/carpet{dir = 1},/obj/machinery/light,/turf/simulated/floor/tiled/white,/area/apartment/lobby)
+"mA" = (/obj/machinery/door/airlock/hatch/autoname/engineering,/obj/machinery/atmospherics/pipe/simple/visible/supply,/obj/machinery/atmospherics/pipe/simple/visible/scrubbers,/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/plating,/area/apartment/atmospherics)
+"mC" = (/turf/simulated/wall/walnut,/area/apartment/atmospherics)
+"mE" = (/obj/machinery/vending/cigarette,/turf/simulated/floor/wood/maple,/area/apartment/hall)
+"mJ" = (/obj/structure/table/marble,/obj/machinery/reagentgrinder/juicer{pixel_y = 10},/obj/machinery/light{dir = 4; icon_state = "tube1"},/turf/simulated/floor/wood,/area/apartment/apartment_114)
+"mO" = (/obj/machinery/door/airlock/civilian{name = "Bedroom"},/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{dir = 4},/obj/machinery/atmospherics/pipe/simple/hidden/supply{dir = 4},/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/wood,/area/apartment/apartment_114/bedroom)
+"mW" = (/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,/turf/simulated/floor/wood/maple,/area/apartment/hall)
+"nr" = (/obj/machinery/door/airlock/hatch/autoname/engineering,/turf/simulated/floor/tiled/white,/area/apartment/hall/offlimits/exit)
+"nt" = (/obj/machinery/light{icon_state = "tube1"},/turf/simulated/floor/wood,/area/apartment/apartment_114)
+"nB" = (/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/tiled/white,/area/apartment/lobby)
+"nN" = (/obj/machinery/atmospherics/pipe/simple/visible/universal{dir = 4},/obj/effect/floor_decal/corner/blue{dir = 10},/obj/machinery/light{dir = 1; icon_state = "bulb1"},/turf/simulated/floor/tiled/techfloor/grid,/area/apartment/atmospherics)
+"nY" = (/obj/structure/table/gamblingtable,/obj/machinery/atmospherics/pipe/simple/hidden/supply,/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,/turf/simulated/floor/wood,/area/apartment/apartment_114)
+"or" = (/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{dir = 4},/obj/machinery/atmospherics/pipe/simple/hidden/supply{dir = 4},/obj/structure/cable{icon_state = "2-8"},/turf/simulated/floor/wood/walnut,/area/apartment/apartment_114/bathroom)
+"ou" = (/obj/machinery/door/blast/regular{density = 0; dir = 4; icon_state = "pdoor0"; id_tag = "scraplock"; name = "External Blast Doors"; opacity = 0},/turf/simulated/floor/airless,/area/exoplanet/grass)
+"oz" = (/obj/effect/floor_decal/carpet{dir = 8},/obj/item/storage/backpack/satchel/pocketbook,/obj/item/clothing/under/avian_smock/worker,/obj/item/clothing/under/avian_smock/rainbow,/turf/simulated/floor/tiled/white,/area/apartment/lobby)
+"oH" = (/obj/machinery/door/airlock/civilian{req_access = list("ACCESS_RESIDENT"); name = "Apartment 114"},/obj/machinery/door/airlock/civilian{req_access = list("ACCESS_RESIDENT"); name = "HoP Access"},/turf/simulated/floor/plating,/area/apartment/maint)
+"oJ" = (/obj/machinery/door/firedoor,/obj/machinery/door/airlock/hatch/autoname/engineering,/turf/space,/area/apartment/atmospherics)
+"oO" = (/obj/structure/table/woodentable_reinforced,/obj/machinery/media/jukebox{pixel_y = 15},/turf/simulated/floor/wood,/area/apartment/apartment_114)
+"oU" = (/obj/machinery/atmospherics/unary/vent_scrubber/on{dir = 1},/obj/machinery/light{dir = 4},/turf/simulated/floor/wood/maple,/area/apartment/hall)
+"oZ" = (/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced{dir = 4},/obj/effect/floor_decal/corner/blue/diagonal,/obj/effect/floor_decal/corner/blue/diagonal{dir = 4},/turf/simulated/floor/reinforced/oxygen,/area/apartment/atmospherics)
+"pk" = (/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,/obj/machinery/atmospherics/pipe/simple/hidden/supply,/turf/simulated/floor/wood,/area/apartment/apartment_114)
+"pr" = (/obj/effect/floor_decal/corner/blue,/obj/effect/floor_decal/corner/yellow{dir = 8},/obj/machinery/space_heater,/turf/simulated/floor/tiled/techfloor,/area/apartment/atmospherics)
+"pz" = (/obj/machinery/door/airlock/civilian{req_access = list("ACCESS_RESIDENT"); name = "Apartment 114"},/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,/obj/machinery/atmospherics/pipe/simple/hidden/supply,/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/wood,/area/apartment/apartment_114)
+"pA" = (/obj/structure/cable{icon_state = "1-2"},/obj/machinery/door/airlock/hatch/autoname/engineering,/turf/simulated/floor/plating,/area/apartment/maint)
+"pB" = (/obj/item/stool/bar/padded,/turf/simulated/floor/wood,/area/apartment/apartment_114)
+"pL" = (/obj/machinery/vending/coffee,/turf/simulated/floor/wood/maple,/area/apartment/hall)
+"qe" = (/turf/simulated/wall/walnut,/area/apartment/apartment_114/closet)
+"qn" = (/obj/machinery/light{dir = 1},/turf/simulated/floor/wood/maple,/area/apartment/hall)
+"qx" = (/obj/machinery/light{dir = 4},/turf/simulated/floor/wood,/area/apartment/apartment_114)
+"qA" = (/obj/machinery/atmospherics/pipe/simple/visible/green{dir = 6},/obj/machinery/light{dir = 1; icon_state = "bulb1"},/obj/structure/closet/firecloset,/turf/simulated/floor/tiled/techfloor,/area/apartment/atmospherics)
+"qZ" = (/obj/machinery/cryopod,/obj/abstract/landmark/latejoin,/turf/simulated/floor/tiled/white,/area/apartment/lobby)
+"rD" = (/obj/structure/bookcase,/turf/simulated/floor/wood/walnut,/area/apartment/apartment_114/office)
+"rW" = (/obj/structure/flora/pottedplant/floorleaf{pixel_y = 3; pixel_x = -3},/turf/simulated/floor/wood/walnut,/area/apartment/apartment_114/office)
+"se" = (/obj/structure/table/bench/wooden,/obj/machinery/light,/turf/simulated/floor/tiled/white,/area/apartment/lobby)
+"sL" = (/obj/machinery/vending/fashionvend,/turf/simulated/floor/wood/maple,/area/apartment/hall)
+"tb" = (/turf/simulated/floor/tiled/white,/area/apartment/lobby)
+"ty" = (/obj/machinery/light_switch{dir = 4; pixel_x = -23},/obj/structure/cable,/obj/machinery/power/apc{areastring = null; name = "_South APC"; pixel_y = -24},/turf/simulated/floor/wood/walnut,/area/apartment/apartment_114/bathroom)
+"tC" = (/obj/effect/wallframe_spawn,/obj/structure/curtain/open/bed{icon_state = "closed"; opacity = 1; name = "curtain"},/turf/space,/area/apartment/lobby)
+"tG" = (/obj/effect/floor_decal/corner/red{dir = 4},/obj/machinery/atmospherics/pipe/simple/visible/red,/turf/simulated/floor/tiled/techfloor/grid,/area/apartment/atmospherics)
+"tQ" = (/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/wood/maple,/area/apartment/hall)
+"tR" = (/obj/effect/floor_decal/carpet/red{dir = 4},/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/wood,/area/apartment/apartment_114)
+"tW" = (/obj/machinery/meter,/obj/effect/floor_decal/corner/blue{dir = 9},/obj/machinery/atmospherics/pipe/manifold/visible/cyan{dir = 4},/turf/simulated/floor/tiled/techfloor/grid,/area/apartment/atmospherics)
+"ue" = (/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{dir = 10},/turf/simulated/floor/wood/maple,/area/apartment/hall)
+"uw" = (/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{dir = 4},/turf/simulated/floor/wood/maple,/area/apartment/hall)
+"uy" = (/obj/machinery/atmospherics/pipe/simple/visible/red{dir = 6},/obj/effect/floor_decal/corner/blue,/obj/structure/fireaxecabinet{pixel_y = 32},/turf/simulated/floor/tiled/techfloor/grid,/area/apartment/atmospherics)
+"vo" = (/obj/structure/table/gamblingtable,/turf/simulated/floor/wood,/area/apartment/apartment_114)
+"vM" = (/obj/effect/floor_decal/carpet/red{dir = 8},/turf/simulated/floor/wood,/area/apartment/apartment_114)
+"wf" = (/obj/effect/floor_decal/carpet{dir = 4},/obj/machinery/atmospherics/unary/vent_pump/on{dir = 4},/obj/machinery/light/small{dir = 8},/turf/simulated/floor/wood/walnut,/area/apartment/apartment_114/bedroom)
+"wi" = (/obj/item/book/printable_blue,/obj/item/book/printable_green,/obj/item/taperecorder,/turf/simulated/floor/wood/walnut,/area/apartment/apartment_114/bedroom)
+"wA" = (/obj/machinery/light{dir = 4; icon_state = "tube1"},/turf/simulated/floor/wood/walnut,/area/apartment/apartment_114/bathroom)
+"wP" = (/obj/machinery/light/small{dir = 1},/obj/machinery/light_switch{pixel_y = 29; pixel_x = 7},/turf/simulated/floor/wood/walnut,/area/apartment/apartment_114/office)
+"wS" = (/obj/machinery/door/firedoor,/obj/structure/cable{icon_state = "4-8"},/obj/machinery/atmospherics/pipe/simple/visible/supply{dir = 4},/obj/machinery/atmospherics/pipe/simple/visible/scrubbers{dir = 4},/obj/machinery/door/airlock/hatch/autoname/engineering,/turf/simulated/floor/tiled/steel_ridged,/area/apartment/atmospherics)
+"xi" = (/turf/simulated/wall/walnut,/area/apartment/apartment_114)
+"xj" = (/turf/simulated/wall/walnut,/area/apartment/hall/offlimits/exit)
+"xn" = (/obj/structure/table/marble,/obj/machinery/microwave{pixel_y = 7},/obj/machinery/light{dir = 1; icon_state = "tube1"},/turf/simulated/floor/wood,/area/apartment/apartment_114)
+"xq" = (/obj/machinery/atmospherics/pipe/simple/visible/scrubbers{dir = 9},/obj/machinery/atmospherics/pipe/simple/visible/supply{dir = 9},/obj/structure/cable{icon_state = "1-8"},/turf/simulated/floor/plating,/area/apartment/atmospherics)
+"xu" = (/obj/effect/floor_decal/corner/blue,/obj/effect/floor_decal/corner/yellow{dir = 4},/obj/machinery/atmospherics/binary/passive_gate/on{dir = 1; name = "Air to Supply"},/turf/simulated/floor/tiled/techfloor,/area/apartment/atmospherics)
+"xC" = (/obj/structure/window/reinforced{dir = 8},/obj/machinery/atmospherics/unary/outlet_injector{dir = 8; icon_state = "map_injector"; id_tag = "n2_in"; use_power = 1},/turf/simulated/floor/reinforced/oxygen,/area/apartment/atmospherics)
+"xY" = (/obj/effect/floor_decal/carpet,/obj/machinery/atmospherics/unary/vent_scrubber/on{dir = 1},/obj/machinery/light_switch{dir = 8; pixel_x = 32},/turf/simulated/floor/wood/walnut,/area/apartment/apartment_114/bedroom)
+"yp" = (/obj/effect/floor_decal/corner/white{dir = 6},/obj/machinery/atmospherics/valve/open,/turf/simulated/floor/tiled/techfloor/grid,/area/apartment/atmospherics)
+"yq" = (/obj/structure/cable{icon_state = "0-8"},/obj/effect/wallframe_spawn/reinforced,/turf/simulated/floor/plating,/area/apartment/lobby)
+"yz" = (/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced{dir = 4},/turf/simulated/floor/reinforced/airmix,/area/apartment/atmospherics)
+"yE" = (/obj/structure/table/reinforced,/obj/machinery/door/window/brigdoor/southright{dir = 4},/obj/machinery/door/firedoor,/obj/structure/disposalpipe/segment,/turf/simulated/floor/plating,/area/apartment/lobby)
+"yN" = (/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{dir = 9},/obj/machinery/atmospherics/pipe/simple/hidden/supply{dir = 9},/turf/simulated/floor/wood,/area/apartment/apartment_114)
+"yP" = (/obj/machinery/atmospherics/pipe/manifold/hidden/scrubbers{dir = 4},/obj/machinery/atmospherics/pipe/manifold/hidden/supply{dir = 4},/obj/structure/cable{icon_state = "1-8"},/turf/simulated/floor/wood,/area/apartment/apartment_114)
+"yV" = (/obj/structure/extinguisher_cabinet{dir = 8},/turf/simulated/wall/walnut,/area/apartment/apartment_114)
+"zn" = (/obj/structure/table/woodentable/mahogany,/obj/item/toy/desk/newtoncradle,/obj/machinery/light{dir = 8},/turf/simulated/floor/wood/walnut,/area/apartment/apartment_114/office)
+"zP" = (/turf/simulated/floor/wood,/area/apartment/apartment_114)
+"Ai" = (/obj/machinery/atmospherics/pipe/simple/hidden/supply,/obj/machinery/atmospherics/pipe/manifold/hidden/scrubbers{dir = 1},/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/wood/maple,/area/apartment/hall)
+"Br" = (/turf/simulated/wall/r_wall,/area/apartment/atmospherics)
+"By" = (/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/carpet/red,/area/apartment/apartment_114)
+"BK" = (/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,/obj/machinery/atmospherics/pipe/simple/hidden/supply,/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/wood,/area/apartment/apartment_114)
+"BX" = (/obj/effect/floor_decal/carpet/red{dir = 8},/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/wood,/area/apartment/apartment_114)
+"Cj" = (/obj/machinery/atmospherics/pipe/simple/hidden/supply{dir = 6},/obj/machinery/light{dir = 1; icon_state = "tube1"},/obj/machinery/alarm{pixel_y = 23},/turf/simulated/floor/wood/walnut,/area/apartment/apartment_114/bedroom)
+"Co" = (/obj/machinery/door/airlock/hatch/autoname/engineering,/turf/simulated/floor/wood/maple,/area/apartment/hall/offlimits/apt115)
+"Ct" = (/obj/machinery/atmospherics/portables_connector,/obj/effect/floor_decal/corner/blue{dir = 9},/obj/structure/cable{icon_state = "1-4"},/turf/simulated/floor/tiled/techfloor/grid,/area/apartment/atmospherics)
+"CB" = (/obj/machinery/atmospherics/binary/pump/on{dir = 8},/obj/effect/floor_decal/corner/blue{dir = 10},/turf/simulated/floor/tiled/techfloor/grid,/area/apartment/atmospherics)
+"CN" = (/turf/simulated/floor/carpet/red,/area/apartment/apartment_114)
+"CV" = (/obj/structure/table/gamblingtable,/obj/item/chems/condiment/small/peppermill{pixel_y = 5},/obj/machinery/atmospherics/pipe/simple/hidden/supply{dir = 9},/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{dir = 9},/turf/simulated/floor/wood,/area/apartment/apartment_114)
+"Dd" = (/obj/structure/cable{icon_state = "2-8"},/turf/simulated/floor/wood,/area/apartment/apartment_114)
+"DA" = (/obj/structure/flora/pottedplant/flower,/turf/simulated/floor/wood/maple,/area/apartment/hall)
+"DV" = (/obj/machinery/light{dir = 4},/turf/simulated/floor/wood/maple,/area/apartment/hall)
+"DZ" = (/obj/effect/floor_decal/corner/red{dir = 5},/turf/simulated/floor/tiled/techfloor/grid,/area/apartment/atmospherics)
+"Ed" = (/turf/simulated/wall/walnut,/area/apartment/hall/offlimits/apt115)
+"Eq" = (/obj/effect/wallframe_spawn,/turf/space,/area/apartment/hall)
+"Ey" = (/obj/machinery/atmospherics/pipe/simple/hidden/supply,/turf/simulated/floor/wood/maple,/area/apartment/hall)
+"Ez" = (/obj/structure/bed/chair/wood/mahogany{dir = 1},/turf/simulated/floor/wood,/area/apartment/apartment_114)
+"EP" = (/obj/effect/wallframe_spawn/reinforced,/obj/machinery/door/firedoor,/obj/machinery/door/blast/regular{density = 0; dir = 4; icon_state = "pdoor0"; id_tag = "scraplock"; name = "External Blast Doors"; opacity = 0},/obj/machinery/atmospherics/pipe/manifold/visible/red{dir = 4},/turf/simulated/floor/plating,/area/apartment/atmospherics)
+"EQ" = (/obj/machinery/atmospherics/unary/vent_pump/high_volume{dir = 4; external_pressure_bound = 140; external_pressure_bound_default = 140; icon_state = "map_vent_out"; use_power = 1},/obj/machinery/door/blast/regular{density = 0; dir = 4; icon_state = "pdoor0"; id_tag = "scraplock"; name = "External Blast Doors"; opacity = 0},/turf/simulated/floor/airless,/area/exoplanet/grass)
+"EZ" = (/obj/machinery/light/flamp,/obj/machinery/light{icon_state = "tube1"},/turf/simulated/floor/wood,/area/apartment/apartment_114)
+"Fw" = (/turf/simulated/wall/walnut,/area/apartment/lobby)
+"Fy" = (/obj/structure/window/reinforced{dir = 8},/obj/effect/floor_decal/corner/white/diagonal{dir = 4},/obj/effect/floor_decal/corner/white/diagonal,/obj/machinery/meter/turf,/turf/simulated/floor/reinforced/airmix,/area/apartment/atmospherics)
+"FC" = (/obj/structure/bed/chair/office/comfy/brown{dir = 8},/turf/simulated/floor/tiled/white,/area/apartment/lobby)
+"FF" = (/obj/effect/floor_decal/carpet{dir = 4},/obj/structure/yinglet_nest/empty,/turf/simulated/floor/wood/walnut,/area/apartment/apartment_114/bedroom)
+"FH" = (/obj/machinery/atmospherics/pipe/simple/visible/green{dir = 4},/obj/effect/floor_decal/corner/red{dir = 6},/obj/machinery/atmospherics/pipe/simple/visible/red,/turf/simulated/floor/tiled/techfloor/grid,/area/apartment/atmospherics)
+"FK" = (/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{dir = 4},/obj/machinery/light,/turf/simulated/floor/wood/maple,/area/apartment/hall)
+"FN" = (/obj/abstract/landmark/start,/obj/effect/floor_decal/carpet{dir = 1},/turf/simulated/floor/tiled/white,/area/apartment/lobby)
+"FT" = (/obj/machinery/atmospherics/pipe/simple/hidden/supply,/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,/turf/simulated/floor/wood,/area/apartment/apartment_114)
+"Gf" = (/obj/machinery/atmospherics/pipe/manifold/hidden/scrubbers,/turf/simulated/floor/wood/maple,/area/apartment/hall)
+"Gs" = (/obj/machinery/atmospherics/pipe/simple/hidden/supply{dir = 4},/turf/simulated/floor/wood/maple,/area/apartment/hall)
+"Gv" = (/obj/structure/bed/chair/wood/mahogany,/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{dir = 4},/obj/machinery/atmospherics/pipe/simple/hidden/supply{dir = 4},/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/wood,/area/apartment/apartment_114)
+"GD" = (/obj/machinery/atmospherics/unary/vent_pump/on{dir = 4},/turf/simulated/floor/wood/maple,/area/apartment/hall)
+"GO" = (/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced{dir = 1},/obj/machinery/atmospherics/unary/vent_pump/high_volume{dir = 4; external_pressure_bound = 0; external_pressure_bound_default = 0; icon_state = "map_vent_in"; id_tag = "air_out"; internal_pressure_bound = 2000; internal_pressure_bound_default = 2000; pressure_checks = 2; pressure_checks_default = 2; pump_direction = 0; use_power = 1},/turf/simulated/floor/reinforced/nitrogen,/area/apartment/atmospherics)
+"GS" = (/obj/structure/table/bench/wooden,/turf/simulated/floor/wood/maple,/area/apartment/hall)
+"GW" = (/obj/machinery/light,/turf/simulated/floor/tiled/techfloor,/area/apartment/atmospherics)
+"Hj" = (/obj/machinery/atmospherics/pipe/manifold/hidden/scrubbers,/obj/machinery/atmospherics/pipe/simple/hidden/supply{dir = 4},/turf/simulated/floor/wood,/area/apartment/apartment_114)
+"Hl" = (/turf/simulated/floor/carpet/purple,/area/apartment/apartment_114/bedroom)
+"Ht" = (/obj/abstract/landmark/start{name = "Visitor"},/obj/effect/floor_decal/carpet{dir = 1},/turf/simulated/floor/tiled/white,/area/apartment/lobby)
+"Hy" = (/obj/item/storage/box/detergent,/obj/structure/closet,/obj/item/clothing/under/avian_smock/worker,/obj/item/clothing/suit/fancyrobe,/obj/item/clothing/suit/storage/toggle/redcoat/yinglet/officer,/turf/simulated/floor/wood/walnut,/area/apartment/apartment_114/closet)
+"HC" = (/obj/structure/table/bench/wooden,/turf/simulated/floor/tiled/white,/area/apartment/lobby)
+"HP" = (/obj/machinery/door/airlock/civilian{name = "Bathroom"},/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{dir = 4},/obj/machinery/atmospherics/pipe/simple/hidden/supply{dir = 4},/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/wood/walnut,/area/apartment/apartment_114/bathroom)
+"HU" = (/obj/machinery/vending/dinnerware{dir = 8},/obj/machinery/light{dir = 4},/turf/simulated/floor/wood/maple,/area/apartment/hall)
+"Id" = (/obj/machinery/atmospherics/pipe/simple/hidden/supply{dir = 4},/obj/machinery/light{dir = 1},/turf/simulated/floor/wood/maple,/area/apartment/hall)
+"Is" = (/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{dir = 4},/obj/machinery/atmospherics/pipe/manifold/hidden/supply,/turf/simulated/floor/wood,/area/apartment/apartment_114)
+"Iy" = (/obj/structure/bed/chair/office,/obj/machinery/alarm{pixel_y = 23},/turf/simulated/floor/wood/walnut,/area/apartment/apartment_114/office)
+"Jh" = (/obj/machinery/vending/snack,/turf/simulated/floor/wood/maple,/area/apartment/hall)
+"Jt" = (/obj/effect/floor_decal/carpet,/turf/simulated/floor/tiled/white,/area/apartment/lobby)
+"Jv" = (/turf/simulated/wall/walnut,/area/apartment/hall/offlimits/n)
+"JF" = (/obj/machinery/atmospherics/pipe/manifold/hidden/scrubbers,/obj/machinery/atmospherics/pipe/manifold/hidden/supply,/obj/structure/cable{icon_state = "1-8"},/turf/simulated/floor/wood,/area/apartment/apartment_114)
+"JM" = (/obj/structure/cable{icon_state = "0-4"; dir = 1},/obj/machinery/power/apc{name = "_South APC"; pixel_y = -24},/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/plating,/area/apartment/maint)
+"Kz" = (/obj/effect/floor_decal/corner/red{dir = 1},/turf/simulated/floor/tiled/techfloor/grid,/area/apartment/atmospherics)
+"KA" = (/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/wood,/area/apartment/apartment_114)
+"Lf" = (/obj/effect/floor_decal/corner/white{dir = 9},/obj/machinery/atmospherics/pipe/simple/visible/cyan,/turf/simulated/floor/tiled/techfloor/grid,/area/apartment/atmospherics)
+"Lg" = (/obj/effect/wallframe_spawn,/turf/simulated/floor/wood/maple,/area/apartment/hall)
+"Li" = (/turf/simulated/wall/walnut,/area/apartment/apartment_114/office)
+"Mh" = (/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/plating,/area/apartment/maint)
+"Mj" = (/obj/machinery/power/debug_items/infinite_generator,/obj/structure/cable,/turf/simulated/floor/plating,/area/apartment/maint)
+"Ms" = (/obj/structure/window/reinforced{dir = 8},/obj/effect/floor_decal/corner/red/diagonal{dir = 4},/obj/effect/floor_decal/corner/red/diagonal,/obj/machinery/meter/turf,/obj/structure/window/reinforced{health = 1e+007},/turf/simulated/floor/reinforced/nitrogen,/area/apartment/atmospherics)
+"My" = (/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{dir = 4},/turf/simulated/floor/wood,/area/apartment/apartment_114)
+"MA" = (/obj/structure/flora/pottedplant/floorleaf,/turf/simulated/floor/tiled/white,/area/apartment/lobby)
+"MT" = (/obj/machinery/atmospherics/pipe/manifold/hidden/supply{dir = 1},/turf/simulated/floor/wood/maple,/area/apartment/hall)
+"MU" = (/obj/structure/cable,/obj/machinery/power/apc{dir = 8; name = "_West APC"; pixel_x = -25},/turf/simulated/floor/tiled/white,/area/apartment/lobby)
+"MW" = (/obj/structure/hygiene/sink{dir = 1},/obj/structure/mirror{pixel_y = 26},/turf/simulated/floor/wood/walnut,/area/apartment/apartment_114/bathroom)
+"Nl" = (/obj/machinery/door/airlock/hatch/autoname/engineering,/turf/simulated/floor/wood/maple,/area/apartment/hall/offlimits/apt112)
+"NN" = (/obj/structure/table/bench/wooden,/obj/item/storage/backpack,/turf/simulated/floor/tiled/white,/area/apartment/lobby)
+"Oc" = (/obj/machinery/meter,/obj/effect/floor_decal/corner/red{dir = 9},/obj/machinery/atmospherics/pipe/manifold/visible/cyan{dir = 4},/turf/simulated/floor/tiled/techfloor/grid,/area/apartment/atmospherics)
+"Od" = (/turf/simulated/wall/walnut,/area/apartment/hall/offlimits/apt112)
+"Oe" = (/turf/exterior/dry,/area/exoplanet/grass)
+"Ol" = (/obj/effect/floor_decal/carpet,/obj/machinery/atmospherics/pipe/simple/hidden/supply,/turf/simulated/floor/wood/walnut,/area/apartment/apartment_114/bedroom)
+"Ou" = (/obj/machinery/door/airlock/hatch/autoname/engineering,/turf/simulated/floor/wood/maple,/area/apartment/hall/offlimits/n)
+"OE" = (/obj/structure/cable{icon_state = "1-2"},/obj/structure/cable{icon_state = "2-4"},/turf/simulated/floor/plating,/area/apartment/maint)
+"OJ" = (/obj/structure/bed,/obj/item/bedsheet/purple,/turf/simulated/floor/carpet/purple,/area/apartment/apartment_114/bedroom)
+"ON" = (/obj/machinery/atmospherics/pipe/manifold/hidden/scrubbers{dir = 8},/obj/machinery/atmospherics/pipe/manifold/hidden/supply{dir = 8},/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/wood,/area/apartment/apartment_114)
+"OP" = (/obj/effect/wallframe_spawn,/obj/structure/curtain/open/bed{icon_state = "closed"; opacity = 1; name = "curtain"},/turf/simulated/floor/wood,/area/apartment/apartment_114)
+"OY" = (/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{dir = 4},/obj/machinery/atmospherics/pipe/simple/hidden/supply{dir = 10},/turf/simulated/floor/wood/walnut,/area/apartment/apartment_114/bathroom)
+"Pa" = (/obj/effect/floor_decal/carpet/red{dir = 1},/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{dir = 4},/obj/machinery/atmospherics/pipe/simple/hidden/supply{dir = 4},/turf/simulated/floor/wood,/area/apartment/apartment_114)
+"Pe" = (/obj/machinery/atmospherics/pipe/manifold/visible/blue{dir = 4},/obj/effect/floor_decal/corner/blue,/obj/effect/floor_decal/corner/yellow{dir = 4},/obj/machinery/meter,/turf/simulated/floor/tiled/techfloor,/area/apartment/atmospherics)
+"Pq" = (/turf/simulated/floor/carpet/blue2,/area/apartment/lobby)
+"Px" = (/obj/structure/table/bench/wooden,/obj/machinery/light{dir = 8},/turf/simulated/floor/tiled/white,/area/apartment/lobby)
+"PC" = (/obj/effect/floor_decal/corner/white{dir = 6},/obj/machinery/atmospherics/pipe/manifold/visible/red{dir = 4},/obj/machinery/meter,/turf/simulated/floor/tiled/techfloor/grid,/area/apartment/atmospherics)
+"Qd" = (/obj/machinery/atmospherics/unary/vent_scrubber/on,/turf/simulated/floor/wood,/area/apartment/apartment_114)
+"Qg" = (/obj/machinery/light{dir = 8},/turf/simulated/floor/wood/maple,/area/apartment/hall)
+"Qm" = (/obj/machinery/atmospherics/portables_connector{dir = 1},/obj/effect/floor_decal/corner/blue,/obj/effect/floor_decal/corner/yellow{dir = 4},/obj/machinery/portable_atmospherics/powered/pump/filled,/obj/machinery/light{dir = 4; icon_state = "bulb1"},/turf/simulated/floor/tiled/techfloor,/area/apartment/atmospherics)
+"Qp" = (/obj/machinery/vending/games{dir = 1},/turf/simulated/floor/wood/maple,/area/apartment/hall)
+"Qq" = (/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,/obj/structure/cable{icon_state = "1-8"},/turf/simulated/floor/wood/maple,/area/apartment/hall)
+"QA" = (/obj/structure/table/woodentable_reinforced/walnut,/obj/machinery/light/small{dir = 1},/turf/simulated/floor/wood/walnut,/area/apartment/apartment_114/bathroom)
+"QR" = (/obj/structure/table/woodentable/mahogany,/obj/machinery/light{dir = 1; icon_state = "tube1"},/obj/item/flashlight/lamp/green{pixel_y = 5},/turf/simulated/floor/wood,/area/apartment/apartment_114)
+"Rf" = (/obj/effect/floor_decal/corner/white{dir = 9},/obj/machinery/atmospherics/pipe/simple/visible/cyan,/obj/machinery/atmospherics/binary/pump/on{dir = 4; name = "Air to Ports"},/turf/simulated/floor/tiled/techfloor/grid,/area/apartment/atmospherics)
+"RE" = (/obj/machinery/washing_machine,/obj/machinery/atmospherics/unary/vent_pump/on,/obj/structure/cable{icon_state = "0-2"; pixel_y = 1},/obj/machinery/power/apc{dir = 1; name = "_North APC"; pixel_y = 24},/turf/simulated/floor/wood/walnut,/area/apartment/apartment_114/closet)
+"RI" = (/obj/structure/hygiene/sink/kitchen,/obj/machinery/light{dir = 1; icon_state = "tube1"},/turf/simulated/floor/wood,/area/apartment/apartment_114)
+"RL" = (/obj/structure/hygiene/toilet,/obj/machinery/alarm{pixel_y = 23},/turf/simulated/floor/wood/walnut,/area/apartment/apartment_114/bathroom)
+"RR" = (/obj/structure/bed/chair/wood/mahogany{dir = 8},/turf/simulated/floor/wood,/area/apartment/apartment_114)
+"RY" = (/obj/structure/cable{icon_state = "4-8"},/obj/structure/cable{icon_state = "2-4"},/turf/simulated/floor/wood/maple,/area/apartment/hall)
+"Se" = (/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/plating,/area/apartment/maint)
+"Sj" = (/obj/machinery/atmospherics/unary/vent_pump/on,/turf/simulated/floor/wood/walnut,/area/apartment/apartment_114/office)
+"Sk" = (/obj/effect/floor_decal/carpet{dir = 8},/turf/simulated/floor/tiled/white,/area/apartment/lobby)
+"SB" = (/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,/obj/machinery/atmospherics/pipe/simple/hidden/supply,/obj/structure/cable{icon_state = "2-8"},/turf/simulated/floor/wood,/area/apartment/apartment_114)
+"SE" = (/turf/simulated/floor/plating,/area/apartment/maint)
+"SZ" = (/obj/machinery/atmospherics/pipe/simple/visible/green,/obj/machinery/atmospherics/binary/pump{dir = 8},/turf/simulated/floor/tiled/techfloor,/area/apartment/atmospherics)
+"Tf" = (/obj/structure/table,/obj/item/multitool{pixel_x = 5},/turf/simulated/floor/tiled/techfloor,/area/apartment/atmospherics)
+"Tl" = (/obj/effect/wallframe_spawn,/turf/simulated/floor/wood,/area/apartment/apartment_114/office)
+"Tn" = (/obj/structure/window/reinforced{dir = 4},/obj/machinery/atmospherics/unary/vent_pump/high_volume{dir = 4; external_pressure_bound = 0; external_pressure_bound_default = 0; icon_state = "map_vent_in"; id_tag = "air_out"; internal_pressure_bound = 2000; internal_pressure_bound_default = 2000; pressure_checks = 2; pressure_checks_default = 2; pump_direction = 0; use_power = 1},/turf/simulated/floor/reinforced/airmix,/area/apartment/atmospherics)
+"Tp" = (/obj/machinery/alarm{pixel_y = 23},/obj/machinery/firealarm{dir = 4; pixel_x = 21},/turf/simulated/floor/wood,/area/apartment/apartment_114)
+"TN" = (/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{dir = 6},/obj/machinery/atmospherics/pipe/simple/hidden/supply{dir = 4},/obj/structure/cable{icon_state = "0-4"},/obj/machinery/power/apc{dir = 1; name = "_North APC"; pixel_y = 24},/turf/simulated/floor/wood/walnut,/area/apartment/apartment_114/bedroom)
+"TR" = (/turf/simulated/wall,/area/apartment/atmospherics)
+"TX" = (/obj/effect/floor_decal/corner/blue,/obj/effect/floor_decal/corner/yellow{dir = 4},/obj/machinery/light{dir = 4; icon_state = "bulb1"},/obj/machinery/atmospherics/pipe/simple/visible/supply,/obj/item/radio/intercom{dir = 8; pixel_x = 22},/turf/simulated/floor/tiled/techfloor,/area/apartment/atmospherics)
+"Ud" = (/obj/machinery/door/airlock/civilian{req_access = list("ACCESS_RESIDENT"); name = "Apartment Hallway"},/turf/simulated/floor/wood/maple,/area/apartment/lobby)
+"US" = (/turf/simulated/wall/walnut,/area/apartment/apartment_114/bathroom)
+"UU" = (/obj/structure/cable{icon_state = "0-4"},/obj/machinery/power/apc{dir = 8; name = "_West APC"; pixel_x = -25},/turf/simulated/floor/wood/walnut,/area/apartment/apartment_114/office)
+"Vb" = (/obj/effect/floor_decal/carpet/red,/obj/structure/bed/sofa/middle/black,/turf/simulated/floor/wood,/area/apartment/apartment_114)
+"Vf" = (/obj/machinery/atmospherics/omni/mixer{tag_east_con = 0; tag_north = 1; tag_north_con = 0.21; tag_south = 1; tag_south_con = 0.79; tag_west = 2},/obj/effect/floor_decal/corner/white{dir = 9},/turf/simulated/floor/tiled/techfloor/grid,/area/apartment/atmospherics)
+"Vj" = (/obj/machinery/atmospherics/pipe/simple/hidden/supply{dir = 9},/obj/abstract/landmark/start{name = "Resident"},/turf/simulated/floor/carpet/purple,/area/apartment/apartment_114/bedroom)
+"Vs" = (/obj/machinery/atmospherics/pipe/simple/visible/scrubbers{dir = 10},/obj/machinery/meter,/obj/effect/floor_decal/corner/blue,/obj/effect/floor_decal/corner/yellow{dir = 4},/obj/machinery/light_switch{pixel_y = 25; dir = 1},/obj/structure/closet/secure_closet/engineering_welding,/turf/simulated/floor/tiled/techfloor,/area/apartment/atmospherics)
+"VA" = (/obj/structure/closet/medical_wall/filled,/turf/simulated/wall/walnut,/area/apartment/apartment_114/office)
+"VH" = (/obj/machinery/portable_atmospherics/powered/scrubber,/obj/machinery/atmospherics/portables_connector{dir = 1},/turf/simulated/floor/tiled/techfloor,/area/apartment/atmospherics)
+"VK" = (/obj/structure/closet/secure_closet/personal/cabinet,/obj/item/storage/backpack,/turf/simulated/floor/wood/walnut,/area/apartment/apartment_114/bedroom)
+"VO" = (/obj/effect/floor_decal/corner/blue,/obj/effect/floor_decal/corner/yellow{dir = 4},/obj/machinery/portable_atmospherics/canister/helium{start_pressure = 2559.63},/turf/simulated/floor/tiled/techfloor,/area/apartment/atmospherics)
+"VX" = (/obj/structure/table/woodentable/mahogany,/obj/machinery/light{dir = 1; icon_state = "tube1"},/turf/simulated/floor/wood,/area/apartment/apartment_114)
+"Wb" = (/obj/structure/table/woodentable_reinforced/walnut,/obj/machinery/light/small{dir = 1},/obj/item/soap,/turf/simulated/floor/wood/walnut,/area/apartment/apartment_114/bathroom)
+"Wf" = (/obj/structure/table/bench/wooden,/obj/machinery/light{dir = 1},/turf/simulated/floor/wood/maple,/area/apartment/hall)
+"Wu" = (/obj/machinery/alarm{dir = 4; pixel_x = -24},/obj/effect/floor_decal/corner/blue{dir = 6},/obj/machinery/atmospherics/pipe/simple/visible/red,/turf/simulated/floor/tiled/techfloor/grid,/area/apartment/atmospherics)
+"WD" = (/obj/structure/window/reinforced{dir = 4},/obj/machinery/light{icon_state = "tube1"},/obj/machinery/atmospherics/unary/vent_pump/on{dir = 1},/turf/simulated/floor/wood/walnut,/area/apartment/apartment_114/bathroom)
+"WE" = (/obj/structure/cable{icon_state = "2-8"},/turf/simulated/floor/plating,/area/apartment/maint)
+"WY" = (/obj/machinery/atmospherics/pipe/simple/visible/supply{dir = 6},/obj/machinery/atmospherics/pipe/simple/visible/scrubbers{dir = 5},/obj/effect/floor_decal/corner/blue,/obj/effect/floor_decal/corner/yellow{dir = 4},/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/tiled/techfloor,/area/apartment/atmospherics)
+"WZ" = (/turf/simulated/wall/walnut,/area/apartment/hall/offlimits/e)
+"Xd" = (/obj/structure/table/marble,/turf/simulated/floor/wood,/area/apartment/apartment_114)
+"Xu" = (/obj/structure/hygiene/drain/bath,/obj/structure/hygiene/shower{dir = 8},/obj/structure/curtain/open/shower,/turf/simulated/floor/tiled/white,/area/apartment/apartment_114/bathroom)
+"XJ" = (/turf/simulated/floor/wood/maple,/area/apartment/hall/offlimits/e)
+"XN" = (/obj/structure/cable{icon_state = "4-8"},/obj/machinery/light,/turf/simulated/floor/plating,/area/apartment/maint)
+"XO" = (/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{dir = 6},/obj/machinery/atmospherics/pipe/simple/hidden/supply{dir = 6},/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/wood,/area/apartment/apartment_114)
+"XS" = (/obj/structure/flora/pottedplant/floorleaf,/obj/machinery/light{dir = 4; icon_state = "tube1"},/turf/simulated/floor/tiled/white,/area/apartment/lobby)
+"XU" = (/obj/structure/table/marble,/obj/structure/closet/walllocker,/obj/item/chems/condiment/sugar,/obj/item/chems/condiment/large/salt,/obj/item/chems/condiment/flour,/turf/simulated/floor/wood,/area/apartment/apartment_114)
+"Yh" = (/obj/structure/closet/masks,/turf/simulated/floor/wood/maple,/area/apartment/hall)
+"Yr" = (/obj/effect/floor_decal/carpet/red,/obj/structure/bed/sofa/left/black,/turf/simulated/floor/wood,/area/apartment/apartment_114)
+"YB" = (/obj/machinery/door/airlock/hatch/autoname/engineering,/turf/simulated/floor/wood/maple,/area/apartment/hall/offlimits/e)
+"YP" = (/obj/machinery/atmospherics/pipe/simple/hidden/supply{dir = 10},/turf/simulated/floor/wood/maple,/area/apartment/hall)
+"YR" = (/obj/machinery/atmospherics/pipe/simple/visible/green{dir = 5},/obj/machinery/light,/obj/structure/emergency_dispenser/west,/obj/machinery/meter,/turf/simulated/floor/tiled/techfloor,/area/apartment/atmospherics)
+"YY" = (/obj/structure/table/bench/wooden,/obj/machinery/light{dir = 1; icon_state = "tube1"},/turf/simulated/floor/tiled/white,/area/apartment/lobby)
+"Zh" = (/obj/machinery/atmospherics/portables_connector{dir = 1},/obj/effect/floor_decal/corner/red{dir = 9},/turf/simulated/floor/tiled/techfloor/grid,/area/apartment/atmospherics)
+"Zx" = (/turf/simulated/wall/walnut,/area/apartment/hall)
+"Zz" = (/obj/structure/window/reinforced{dir = 4},/obj/machinery/atmospherics/unary/outlet_injector{dir = 4; icon_state = "map_injector"; id_tag = "n2_in"; use_power = 1},/obj/effect/floor_decal/corner/white/diagonal,/obj/effect/floor_decal/corner/white/diagonal{dir = 4},/turf/simulated/floor/reinforced/airmix,/area/apartment/atmospherics)
+"ZB" = (/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{dir = 1},/obj/machinery/atmospherics/unary/outlet_injector{dir = 8; icon_state = "map_injector"; id_tag = "n2_in"; use_power = 1},/turf/simulated/floor/reinforced/nitrogen,/area/apartment/atmospherics)
+
+(1,1,1) = {"
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeJvJvJvJvJvOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeJvmmmmmmJvOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeJvmmmmmmJvOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeJvmmmmmmJvOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeJvmmmmmmJvOeOeOeqeqeqeqeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeJvmmmmmmJvOeOeOeqeHyREqeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeJvmmmmmmJvOeOeOeqeeRahqeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeZxEqOuEqlAlAlAlAlAqegNUSUSUSUSUSxixixixixixixiOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeZxayayaylAVKCjTNmOfLyPUSWbMWQARLxiRIgfiLXUxnxiOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeZxayayHUlAwiOlxYlAgGONHPorOYiHwAxidGQdzPkYmJxiOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeZxayaybjlAwfVjOJlAXOyNUStyWDXufBxiiFccMydtzPxiOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeZxQgayaylAFFHlfElABKxixixixixixixixiXdXdFTzPxiOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeEdZxayayewLiVALiLiLiBKzPVXYrVbgzQRTpxipBpBFTqxxiOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeEdCoayayDVLirWIywPTlfTfbtRByByByBXfbfbDdzPFTzPyVOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeEdZxayayayLiznlhSjTlBKQdjpCNCNCNvMkYzPKAvonYRRxiOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeZxQgayayLiUUkojmgsJFHjflPaPaPaflIsflGvkmCVlsxiOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeZxayayDVLikLhGrDTlzPzPntjFoOjFEZzPzPKApkEzzPxiOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeZxayayayLiLiLiLiLixixixixixixixixiaYhYSBzPzPxiOeOeOeOdOdOdOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeZxayayayaybhpLmEqnDAayGSWfYhsLJhxixixipzOPxixiZxZxZxZxNlZxZxZxZxWZWZWZWZWZWZWZOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeZxQgGDGsGsGsGsGsGsGsMTGsGsGsGsGsIdGsGsezGsGsGsGsIdGsYPayayayqnLgXJXJXJXJXJXJWZOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeZxayayayayayayayayaylMtQtQRYtQaOtQbutQQqayayayayayayEyayayayayYBXJXJXJXJXJXJWZOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeZxQpeEFKuwuwuwFKuwuwAiuwFKkQuwjeuwuwFKGfuwFKuwuwFKuwetuwueayayLgXJXJXJXJXJXJWZOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeZxZxZxmCmCoJmCmCmCmCmAmCZxZxZxpAZxZxZxZxZxZxZxZxZxZxayaymWZxZxZxWZWZWZWZWZWZWZOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeBruyCBnNbdVsTRfZTROeOekJOEMhJMMhMhXNMhMhWEkJZxQgayoUZxOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeBrBrWubwoZCtWYwSxqTROeOekJMjkJkJkJkJkJkJkJSekJZxayayayZxOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeBrqAhDxCkutWTXBrTRTROeOekJkJkJOeOeOeOeOekJSeSEoHayayayZxOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeoufRSZPCihyzLffkBrOeOeOeOeOeOeOeOeOeOeOeOekJSekJZxQgayDVZxOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeEQEPmcypFyZzVfxuBrOeOeOeOeOeOeOeOeOeOeOeOeFwcmFwZxayayayZxOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeoujzljPChMTnRfPeBrOeOeOeOeOeOeOeOeOeOeOeOeFwnBfFFwtCUdtCFwFwFwOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeBrYRFHZBGOOcQmBrOeOeOeOeOeOeOeOeOeOeOeOeFwMUtbyqJtJtJtYYNNFwOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeBrBrjNMshAZhVOBrOeOeOeOeOeOeOeOeOeOeOeOeFwjAFCyEPqPqPqozXSFwOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeBrtGDZDZKzlyBrOeOeOeOeOeOeOeOeOeOeOeOeFwFwyqyqPqPqPqSkqZFwOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeBrVHGWTfprceBrOeOeOeOeOeOeOeOeOeOeOeOeOeFwMAcxPqPqPqSkqZFwOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeBrBrBrBrBrBrBrOeOeOeOeOeOeOeOeOeOeOeOeOeFwHCcxPqPqPqSkqZFwOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeFwPxcxPqPqPqSkXSFwOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeFwHCcCHtmsFNseHCFwOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeFwFwFwnrFwnrFwFwFwOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOexjxjxjxjxjOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+OeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOeOe
+"}

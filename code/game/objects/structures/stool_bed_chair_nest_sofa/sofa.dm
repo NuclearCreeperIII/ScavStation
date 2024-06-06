@@ -83,6 +83,11 @@
 	set_dir(turn(dir, 45))
 	update_icon()
 
+/obj/structure/bed/sofa/New()
+	..()
+	update_icon()
+
+
 /obj/structure/bed/sofa/middle/red
 	reinf_material = /decl/material/solid/organic/carpet
 /obj/structure/bed/sofa/middle/brown
